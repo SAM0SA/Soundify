@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "633053080431",
+    "firebase_url": "https://soundify-5661a.firebaseio.com",
+    "project_id": "soundify-5661a",
+    "storage_bucket": "soundify-5661a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633053080431:android:f9060b2bc6c4204d",
+        "android_client_info": {
+          "package_name": "com.soundify.soundify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "633053080431-jiuqoo6j3t234r09ougkshcbcfc7ekb9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.soundify.soundify",
+            "certificate_hash": "8bfa4b440023c9fdf2eae5ab132e6625bbd02de1"
+          }
+        },
+        {
+          "client_id": "633053080431-sl1cionrmj52s65hu0ogc27cp8pq22k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4I2YdY7mrrJWLvO173nOAv6hc2pWkc4I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "633053080431-sl1cionrmj52s65hu0ogc27cp8pq22k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
